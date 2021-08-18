@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/skpss.lwc-kshqk72m",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve M9Wyk1CPhqaThcDutDpx --open"
+  }
+}
